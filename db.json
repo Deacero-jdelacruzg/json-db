@@ -1,0 +1,29 @@
+{
+"cursos": [
+    {
+      "id" : 1,
+      "title": "React desde 0",
+      "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2Fe63e21c1-4f6e-4493-81df-28e263b0adfe.png&w=1920&q=75",
+      "price": 22,
+      "nombre": "Juan De la cruz"
+    },{
+      "id" : 2,
+      "title": "HTML5 desde 0",
+      "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2F927f5294-45af-4593-a52f-f437bf16d811.png&w=1920&q=75",
+      "price": 25,
+      "nombre": "Jorge Garcia"
+    },{
+      "id" : 3,
+      "title": "NodeJs desde 0",
+      "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2F3cc48fa0-8327-4561-aa04-dafc3b799909.png&w=1920&q=75",
+      "price": 30,
+      "nombre": "Juan De la cruz"
+    },{
+      "id" : 4,
+      "title": "JAVA desde 0",
+      "image": "https://ed.team/_next/image?url=https%3A%2F%2Fedteam-media.s3.amazonaws.com%2Fcourses%2Fbig%2F7fcc7e89-588a-40a8-98b3-25d12d93fb21.png&w=1920&q=75",
+      "price": 20,
+      "nombre": "Jorge Garcia"
+    }
+  ]
+}
